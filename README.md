@@ -1,80 +1,46 @@
-```html
-<h1 align="center">Hi there 👋 I'm AkbarxonKing</h1>
+# Hi there 👋 I'm AkbarxonKing
 
-<p align="center">
-  💻 Passionate programmer from Uzbekistan who enjoys building software,
-  learning new technologies, and solving problems.
-</p>
+💻 Passionate programmer from Uzbekistan who enjoys building software, learning new technologies, and solving problems.
 
-<hr>
+## 🚀 About Me
 
-<h2>🚀 About Me</h2>
+* 🔭 I'm currently working on improving my programming skills.
+* 🌱 I'm currently learning **DevOps**, **Linux**, and **GitHub Actions**.
+* 💻 I code in **C++**, **Python**, **HTML**, and **CSS**.
+* 🎯 My goal is to become a professional Software & DevOps Engineer.
+* ⚡ I love creating useful projects and exploring new technologies.
 
-<ul>
-  <li>🔭 I'm currently working on improving my programming skills.</li>
-  <li>🌱 I'm currently learning <b>DevOps</b>, <b>Linux</b>, and <b>GitHub Actions</b>.</li>
-  <li>💻 I code in <b>C++</b>, <b>Python</b>, <b>HTML</b>, and <b>CSS</b>.</li>
-  <li>🎯 My goal is to become a professional Software & DevOps Engineer.</li>
-  <li>⚡ I love creating useful projects and exploring new technologies.</li>
-</ul>
+## 🛠️ Languages & Tools
 
-<hr>
-
-<h2>🛠 Languages & Tools</h2>
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,git,github,vscode,linux" />
 </p>
 
-<hr>
-
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=AkbarxonKing&show_icons=true&theme=tokyonight"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarxonKing&layout=compact&theme=tokyonight"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkbarxonKing&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkbarxonKing&layout=compact&theme=tokyonight" height="170">
 </p>
 
-<hr>
-
-<h2>🔥 GitHub Streak</h2>
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AkbarxonKing&theme=tokyonight" />
 </p>
 
-<hr>
+## 🎯 Current Focus
 
-<h2>🎯 Current Focus</h2>
+* 🚀 DevOps
+* 🐧 Linux
+* ⚙️ Automation
+* ☁️ Cloud Technologies
+* 📚 Continuous Learning
 
-<ul>
-  <li>🚀 DevOps</li>
-  <li>🐧 Linux</li>
-  <li>⚙️ Automation</li>
-  <li>☁️ Cloud Technologies</li>
-  <li>📚 Continuous Learning</li>
-</ul>
+## 📫 Connect with Me
 
-<hr>
+* GitHub: https://github.com/AkbarxonKing
 
-<h2>📫 Connect with Me</h2>
+---
 
-<p>
-  <a href="https://github.com/AkbarxonKing">
-    GitHub Profile
-  </a>
-</p>
-
-<hr>
-
-<h3 align="center">
-  🚀 <i>Code. Learn. Build. Repeat.</i> 👑
-</h3>
-```
+> *"Code. Learn. Build. Repeat."* 🚀
